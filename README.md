@@ -1,7 +1,4 @@
 ### Practical Oracle Cloud Infrastructure
-https://www.apress.com/gp/book/9781484255056  
-© Michał Tomasz Jakóbczyk  
-Code snippets to use with Chapter 2.  
 Replace `<placeholders>` with values matching your environment.  
 
 ---
